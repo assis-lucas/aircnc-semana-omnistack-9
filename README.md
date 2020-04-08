@@ -7,17 +7,6 @@
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-9/master/.github/aircnc.png">
-
-  <img alt="Repository size" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-9/master/.github/aircnc.png">
-  
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/commits/master">
-    <img alt="GitHub last commit" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-9/master/.github/aircnc.png">
-  </a>
-
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/issues">
-    <img alt="Repository issues" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-9/master/.github/aircnc.png">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
